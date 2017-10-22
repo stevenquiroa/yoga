@@ -16,6 +16,7 @@
 	],
 
         "cflags": [
+            "-std=c99",
             "-DNBIND"
         ],
 
